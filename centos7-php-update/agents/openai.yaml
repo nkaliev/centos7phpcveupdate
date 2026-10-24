@@ -1,0 +1,4 @@
+interface:
+  display_name: "Обновление PHP на CentOS 7"
+  short_description: "Исправления PHP 8.2–8.5 из совместимых EL7 RPM"
+  default_prompt: "Используй $centos7-php-update для обновления установленной ветки PHP на CentOS 7 с проверкой зависимостей и отката."
